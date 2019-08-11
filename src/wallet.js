@@ -1,4 +1,4 @@
-import "./wallet.css";
+import "./styles/wallet.scss";
 const $ = qs => document.querySelector(qs);
 
 const continueButton = $("[data-continue-button]");

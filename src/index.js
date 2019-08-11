@@ -1,4 +1,4 @@
-import "./style.css";
+import "./styles/style.scss";
 import * as uiActions from "./ui/ui-actions";
 const Config = require("./config");
 const StellarSdk = require("stellar-sdk");
